@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c95e9de4-52e0-497b-a589-21fe73676596/deploy-status)](https://app.netlify.com/sites/autolib-docs/deploys)
 # Website
 
 This website is built using Docusaurus 2, a modern static website generator.
